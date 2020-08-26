@@ -1,0 +1,10 @@
+﻿1001|无畏肩铠|inv_shoulder_29|Equip|ShoulderItem|123|2|3|34|100|294|||物品等级86
+1002|无畏胸甲|inv_chest_plate02|Equip|ChestItem|233|3|4|23|200|300|||物品等级86
+1003|无畏护腕|inv_bracer_15|Equip|WristItem|233|4|4|59|400|400|||物品等级86
+1004|无畏手套|inv_gauntlets_28|Equip|HandsItem|210|1|6|70|2100|210|||物品等级86
+1005|无畏腰带|inv_belt_27|Equip|WaistItem|233|4|4|59|400|400|||物品等级86
+1006|无畏腿铠|inv_pants_plate_05|Equip|LegsItem|333|5|5|69|500|500|||物品等级86
+1007|无畏马靴|inv_boots_plate_06|Equip|FeetItem|110|3|5|30|200|700|||物品等级86
+1008|无畏头盔|inv_helmet_58|Equip|headItem|110|3|5|30|200|700|||物品等级86
+1009|堕落的灰烬使者|inv_sword_2h_ashbringercorrupt|Equip|WeaponItem_2h|300|2|4|90|400|400|||物品等级86
+1010|堕落神明披风|inv_misc_cape_10|Equip|BackItem|300|2|4|90|400|400|||物品等级86

@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: a69ca0dcedce8d54388ce55e9c33b3cd
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: character/dwarf/female/dwarffemale_hd_sdr.m2_Geoset_000-Main
+    100004: character/dwarf/female/dwarffemale_hd_sdr.m2_Geoset_1301-Trousers
+    100006: character/dwarf/female/dwarffemale_hd_sdr.m2_Geoset_1502-Cape
+    100008: character/dwarf/female/dwarffemale_hd_sdr.m2_Geoset_2002-Feet
+    100010: character/dwarf/female/dwarffemale_hd_sdr.m2_Geoset_2201
+    100012: character/dwarf/female/dwarffemale_hd_sdr.m2_Geoset_404-Bracers
+    100014: character/dwarf/female/dwarffemale_hd_sdr.m2_Geoset_504-Boots
+    100016: item/objectcomponents/head/helm_plate_raidwarrior_c_01_dwf.m2_Geoset_000
+    100018: item/objectcomponents/shoulder/lshoulder_plate_raidwarrior_c_01.m2_Geoset_000
+    100020: item/objectcomponents/shoulder/rshoulder_plate_raidwarrior_c_01.m2_Geoset_000
+    400000: //RootNode
+    400002: character/dwarf/female/dwarffemale_hd_sdr.m2_Geoset_000-Main
+    400004: character/dwarf/female/dwarffemale_hd_sdr.m2_Geoset_1301-Trousers
+    400006: character/dwarf/female/dwarffemale_hd_sdr.m2_Geoset_1502-Cape
+    400008: character/dwarf/female/dwarffemale_hd_sdr.m2_Geoset_2002-Feet
+    400010: character/dwarf/female/dwarffemale_hd_sdr.m2_Geoset_2201
+    400012: character/dwarf/female/dwarffemale_hd_sdr.m2_Geoset_404-Bracers
+    400014: character/dwarf/female/dwarffemale_hd_sdr.m2_Geoset_504-Boots
+    400016: item/objectcomponents/head/helm_plate_raidwarrior_c_01_dwf.m2_Geoset_000
+    400018: item/objectcomponents/shoulder/lshoulder_plate_raidwarrior_c_01.m2_Geoset_000
+    400020: item/objectcomponents/shoulder/rshoulder_plate_raidwarrior_c_01.m2_Geoset_000
+    2100000: character_dwarf_female_dwarffemale_hd_sdr.m2_Geoset_000
+    2100002: character_dwarf_female_dwarffemale_hd_sdr.m2_Geoset_1301
+    2100004: character_dwarf_female_dwarffemale_hd_sdr.m2_Geoset_1502
+    2100006: character_dwarf_female_dwarffemale_hd_sdr.m2_Geoset_2002
+    2100008: character_dwarf_female_dwarffemale_hd_sdr.m2_Geoset_2201
+    2100010: character_dwarf_female_dwarffemale_hd_sdr.m2_Geoset_404
+    2100012: character_dwarf_female_dwarffemale_hd_sdr.m2_Geoset_504
+    2100014: item_objectcomponents_head_helm_plate_raidwarrior_c_01_dwf.m2_Geoset_000_Dbl
+    2100016: item_objectcomponents_head_helm_plate_raidwarrior_c_01_dwf.m2_Geoset_000_Lum
+    2100018: item_objectcomponents_shoulder_lshoulder_plate_raidwarrior_c_01.m2_Geoset_000_Lum
+    2100020: item_objectcomponents_shoulder_lshoulder_plate_raidwarrior_c_01.m2_Geoset_000
+    2100022: item_objectcomponents_shoulder_rshoulder_plate_raidwarrior_c_01.m2_Geoset_000
+    2100024: item_objectcomponents_shoulder_rshoulder_plate_raidwarrior_c_01.m2_Geoset_000_Lum
+    2300000: character/dwarf/female/dwarffemale_hd_sdr.m2_Geoset_000-Main
+    2300002: character/dwarf/female/dwarffemale_hd_sdr.m2_Geoset_1301-Trousers
+    2300004: character/dwarf/female/dwarffemale_hd_sdr.m2_Geoset_1502-Cape
+    2300006: character/dwarf/female/dwarffemale_hd_sdr.m2_Geoset_2002-Feet
+    2300008: character/dwarf/female/dwarffemale_hd_sdr.m2_Geoset_2201
+    2300010: character/dwarf/female/dwarffemale_hd_sdr.m2_Geoset_404-Bracers
+    2300012: character/dwarf/female/dwarffemale_hd_sdr.m2_Geoset_504-Boots
+    2300014: item/objectcomponents/head/helm_plate_raidwarrior_c_01_dwf.m2_Geoset_000
+    2300016: item/objectcomponents/shoulder/lshoulder_plate_raidwarrior_c_01.m2_Geoset_000
+    2300018: item/objectcomponents/shoulder/rshoulder_plate_raidwarrior_c_01.m2_Geoset_000
+    3300000: character/dwarf/female/dwarffemale_hd_sdr.m2_Geoset_000-Main
+    3300002: character/dwarf/female/dwarffemale_hd_sdr.m2_Geoset_1301-Trousers
+    3300004: character/dwarf/female/dwarffemale_hd_sdr.m2_Geoset_1502-Cape
+    3300006: character/dwarf/female/dwarffemale_hd_sdr.m2_Geoset_2002-Feet
+    3300008: character/dwarf/female/dwarffemale_hd_sdr.m2_Geoset_2201
+    3300010: character/dwarf/female/dwarffemale_hd_sdr.m2_Geoset_404-Bracers
+    3300012: character/dwarf/female/dwarffemale_hd_sdr.m2_Geoset_504-Boots
+    3300014: item/objectcomponents/head/helm_plate_raidwarrior_c_01_dwf.m2_Geoset_000
+    3300016: item/objectcomponents/shoulder/lshoulder_plate_raidwarrior_c_01.m2_Geoset_000
+    3300018: item/objectcomponents/shoulder/rshoulder_plate_raidwarrior_c_01.m2_Geoset_000
+    4300000: character/dwarf/female/dwarffemale_hd_sdr.m2_Geoset_000-Main
+    4300002: character/dwarf/female/dwarffemale_hd_sdr.m2_Geoset_1301-Trousers
+    4300004: character/dwarf/female/dwarffemale_hd_sdr.m2_Geoset_1502-Cape
+    4300006: character/dwarf/female/dwarffemale_hd_sdr.m2_Geoset_2002-Feet
+    4300008: character/dwarf/female/dwarffemale_hd_sdr.m2_Geoset_2201
+    4300010: character/dwarf/female/dwarffemale_hd_sdr.m2_Geoset_404-Bracers
+    4300012: character/dwarf/female/dwarffemale_hd_sdr.m2_Geoset_504-Boots
+    4300014: item/objectcomponents/head/helm_plate_raidwarrior_c_01_dwf.m2_Geoset_000
+    4300016: item/objectcomponents/shoulder/lshoulder_plate_raidwarrior_c_01.m2_Geoset_000
+    4300018: item/objectcomponents/shoulder/rshoulder_plate_raidwarrior_c_01.m2_Geoset_000
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character_dwarf_female_dwarffemale_hd_sdr.m2_Geoset_000
+    second: {fileID: 2100000, guid: f217259321772b44681fb274ca876093, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character_dwarf_female_dwarffemale_hd_sdr.m2_Geoset_1301
+    second: {fileID: 2100000, guid: 32f23e3a222c670468d9d6ca33b8d62a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character_dwarf_female_dwarffemale_hd_sdr.m2_Geoset_1502
+    second: {fileID: 2100000, guid: ed77053f7a8ebb34dbc2929bbb66aaff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character_dwarf_female_dwarffemale_hd_sdr.m2_Geoset_2002
+    second: {fileID: 2100000, guid: c9bea175f35ac484d92b6614079622ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character_dwarf_female_dwarffemale_hd_sdr.m2_Geoset_2201
+    second: {fileID: 2100000, guid: 12a60db45dd21574dab1ae61e5d572cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character_dwarf_female_dwarffemale_hd_sdr.m2_Geoset_404
+    second: {fileID: 2100000, guid: 6216cd7e14891fe43bda9dc5209b13d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character_dwarf_female_dwarffemale_hd_sdr.m2_Geoset_504
+    second: {fileID: 2100000, guid: 6d9edc799be734c4696c1bbe2288a98a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: item_objectcomponents_head_helm_plate_raidwarrior_c_01_dwf.m2_Geoset_000_Dbl
+    second: {fileID: 2100000, guid: a0362bfbb7a77e24b9f855da63f314e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: item_objectcomponents_head_helm_plate_raidwarrior_c_01_dwf.m2_Geoset_000_Lum
+    second: {fileID: 2100000, guid: 63a21e25a208d1a449d282bc6ff81217, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: item_objectcomponents_shoulder_lshoulder_plate_raidwarrior_c_01.m2_Geoset_000
+    second: {fileID: 2100000, guid: a63b4cb8258b8694cad2de2a1e5954bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: item_objectcomponents_shoulder_lshoulder_plate_raidwarrior_c_01.m2_Geoset_000_Lum
+    second: {fileID: 2100000, guid: 1892b3b8c466d8e4d9a5c3c87c29fee3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: item_objectcomponents_shoulder_rshoulder_plate_raidwarrior_c_01.m2_Geoset_000
+    second: {fileID: 2100000, guid: 27788b1d6fca4364f9fabe68a53bc3cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: item_objectcomponents_shoulder_rshoulder_plate_raidwarrior_c_01.m2_Geoset_000_Lum
+    second: {fileID: 2100000, guid: 0432cf6ad4b43624ab43f651f452ae1b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7b925cd51763c7744b6aa289602b46d7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Skurri
+  fontNames:
+  - Skurri
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 31a2b0b928e378842a4b29c0fd5ceb91, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

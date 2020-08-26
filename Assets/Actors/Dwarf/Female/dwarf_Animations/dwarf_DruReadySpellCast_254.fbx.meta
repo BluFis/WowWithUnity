@@ -1,0 +1,2084 @@
+fileFormatVersion: 2
+guid: 87eb3547497c28743abf9ca4a1a1d607
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: character/dwarf/female/dwarffemale_hd_bone_0
+    100002: character/dwarf/female/dwarffemale_hd_bone_1
+    100004: character/dwarf/female/dwarffemale_hd_bone_10
+    100006: character/dwarf/female/dwarffemale_hd_bone_100
+    100008: character/dwarf/female/dwarffemale_hd_bone_101
+    100010: character/dwarf/female/dwarffemale_hd_bone_102
+    100012: character/dwarf/female/dwarffemale_hd_bone_103
+    100014: character/dwarf/female/dwarffemale_hd_bone_104
+    100016: character/dwarf/female/dwarffemale_hd_bone_105
+    100018: character/dwarf/female/dwarffemale_hd_bone_106
+    100020: character/dwarf/female/dwarffemale_hd_bone_107
+    100022: character/dwarf/female/dwarffemale_hd_bone_108
+    100024: character/dwarf/female/dwarffemale_hd_bone_109
+    100026: character/dwarf/female/dwarffemale_hd_bone_11
+    100028: character/dwarf/female/dwarffemale_hd_bone_110
+    100030: character/dwarf/female/dwarffemale_hd_bone_111
+    100032: character/dwarf/female/dwarffemale_hd_bone_112
+    100034: character/dwarf/female/dwarffemale_hd_bone_113
+    100036: character/dwarf/female/dwarffemale_hd_bone_114
+    100038: character/dwarf/female/dwarffemale_hd_bone_115
+    100040: character/dwarf/female/dwarffemale_hd_bone_116
+    100042: character/dwarf/female/dwarffemale_hd_bone_117
+    100044: character/dwarf/female/dwarffemale_hd_bone_118
+    100046: character/dwarf/female/dwarffemale_hd_bone_119
+    100048: character/dwarf/female/dwarffemale_hd_bone_12
+    100050: character/dwarf/female/dwarffemale_hd_bone_120
+    100052: character/dwarf/female/dwarffemale_hd_bone_121
+    100054: character/dwarf/female/dwarffemale_hd_bone_122
+    100056: character/dwarf/female/dwarffemale_hd_bone_123
+    100058: character/dwarf/female/dwarffemale_hd_bone_124
+    100060: character/dwarf/female/dwarffemale_hd_bone_125
+    100062: character/dwarf/female/dwarffemale_hd_bone_126
+    100064: character/dwarf/female/dwarffemale_hd_bone_127
+    100066: character/dwarf/female/dwarffemale_hd_bone_128
+    100068: character/dwarf/female/dwarffemale_hd_bone_129
+    100070: character/dwarf/female/dwarffemale_hd_bone_13
+    100072: character/dwarf/female/dwarffemale_hd_bone_130
+    100074: character/dwarf/female/dwarffemale_hd_bone_131
+    100076: character/dwarf/female/dwarffemale_hd_bone_132
+    100078: character/dwarf/female/dwarffemale_hd_bone_133
+    100080: character/dwarf/female/dwarffemale_hd_bone_134
+    100082: character/dwarf/female/dwarffemale_hd_bone_135
+    100084: character/dwarf/female/dwarffemale_hd_bone_136
+    100086: character/dwarf/female/dwarffemale_hd_bone_137
+    100088: character/dwarf/female/dwarffemale_hd_bone_138
+    100090: character/dwarf/female/dwarffemale_hd_bone_139
+    100092: character/dwarf/female/dwarffemale_hd_bone_14
+    100094: character/dwarf/female/dwarffemale_hd_bone_140
+    100096: character/dwarf/female/dwarffemale_hd_bone_141
+    100098: character/dwarf/female/dwarffemale_hd_bone_142
+    100100: character/dwarf/female/dwarffemale_hd_bone_143
+    100102: character/dwarf/female/dwarffemale_hd_bone_144
+    100104: character/dwarf/female/dwarffemale_hd_bone_145
+    100106: character/dwarf/female/dwarffemale_hd_bone_146
+    100108: character/dwarf/female/dwarffemale_hd_bone_147
+    100110: character/dwarf/female/dwarffemale_hd_bone_148
+    100112: character/dwarf/female/dwarffemale_hd_bone_149
+    100114: character/dwarf/female/dwarffemale_hd_bone_15
+    100116: character/dwarf/female/dwarffemale_hd_bone_150
+    100118: character/dwarf/female/dwarffemale_hd_bone_151
+    100120: character/dwarf/female/dwarffemale_hd_bone_152
+    100122: character/dwarf/female/dwarffemale_hd_bone_153
+    100124: character/dwarf/female/dwarffemale_hd_bone_154
+    100126: character/dwarf/female/dwarffemale_hd_bone_155
+    100128: character/dwarf/female/dwarffemale_hd_bone_156
+    100130: character/dwarf/female/dwarffemale_hd_bone_157
+    100132: character/dwarf/female/dwarffemale_hd_bone_158
+    100134: character/dwarf/female/dwarffemale_hd_bone_159
+    100136: character/dwarf/female/dwarffemale_hd_bone_16
+    100138: character/dwarf/female/dwarffemale_hd_bone_160
+    100140: character/dwarf/female/dwarffemale_hd_bone_161
+    100142: character/dwarf/female/dwarffemale_hd_bone_162
+    100144: character/dwarf/female/dwarffemale_hd_bone_163
+    100146: character/dwarf/female/dwarffemale_hd_bone_164
+    100148: character/dwarf/female/dwarffemale_hd_bone_165
+    100150: character/dwarf/female/dwarffemale_hd_bone_166
+    100152: character/dwarf/female/dwarffemale_hd_bone_167
+    100154: character/dwarf/female/dwarffemale_hd_bone_168
+    100156: character/dwarf/female/dwarffemale_hd_bone_169
+    100158: character/dwarf/female/dwarffemale_hd_bone_17
+    100160: character/dwarf/female/dwarffemale_hd_bone_170
+    100162: character/dwarf/female/dwarffemale_hd_bone_171
+    100164: character/dwarf/female/dwarffemale_hd_bone_172
+    100166: character/dwarf/female/dwarffemale_hd_bone_173
+    100168: character/dwarf/female/dwarffemale_hd_bone_174
+    100170: character/dwarf/female/dwarffemale_hd_bone_175
+    100172: character/dwarf/female/dwarffemale_hd_bone_176
+    100174: character/dwarf/female/dwarffemale_hd_bone_177
+    100176: character/dwarf/female/dwarffemale_hd_bone_178
+    100178: character/dwarf/female/dwarffemale_hd_bone_179
+    100180: character/dwarf/female/dwarffemale_hd_bone_18
+    100182: character/dwarf/female/dwarffemale_hd_bone_180
+    100184: character/dwarf/female/dwarffemale_hd_bone_181
+    100186: character/dwarf/female/dwarffemale_hd_bone_182
+    100188: character/dwarf/female/dwarffemale_hd_bone_183
+    100190: character/dwarf/female/dwarffemale_hd_bone_184
+    100192: character/dwarf/female/dwarffemale_hd_bone_185
+    100194: character/dwarf/female/dwarffemale_hd_bone_186
+    100196: character/dwarf/female/dwarffemale_hd_bone_187
+    100198: character/dwarf/female/dwarffemale_hd_bone_188
+    100200: character/dwarf/female/dwarffemale_hd_bone_189
+    100202: character/dwarf/female/dwarffemale_hd_bone_19
+    100204: character/dwarf/female/dwarffemale_hd_bone_190
+    100206: character/dwarf/female/dwarffemale_hd_bone_191
+    100208: character/dwarf/female/dwarffemale_hd_bone_192
+    100210: character/dwarf/female/dwarffemale_hd_bone_193
+    100212: character/dwarf/female/dwarffemale_hd_bone_194
+    100214: character/dwarf/female/dwarffemale_hd_bone_195
+    100216: character/dwarf/female/dwarffemale_hd_bone_196
+    100218: character/dwarf/female/dwarffemale_hd_bone_197
+    100220: character/dwarf/female/dwarffemale_hd_bone_198
+    100222: character/dwarf/female/dwarffemale_hd_bone_199
+    100224: character/dwarf/female/dwarffemale_hd_bone_2
+    100226: character/dwarf/female/dwarffemale_hd_bone_20
+    100228: character/dwarf/female/dwarffemale_hd_bone_200
+    100230: character/dwarf/female/dwarffemale_hd_bone_201
+    100232: character/dwarf/female/dwarffemale_hd_bone_202
+    100234: character/dwarf/female/dwarffemale_hd_bone_203
+    100236: character/dwarf/female/dwarffemale_hd_bone_204
+    100238: character/dwarf/female/dwarffemale_hd_bone_205
+    100240: character/dwarf/female/dwarffemale_hd_bone_206
+    100242: character/dwarf/female/dwarffemale_hd_bone_207
+    100244: character/dwarf/female/dwarffemale_hd_bone_208
+    100246: character/dwarf/female/dwarffemale_hd_bone_209
+    100248: character/dwarf/female/dwarffemale_hd_bone_21
+    100250: character/dwarf/female/dwarffemale_hd_bone_210
+    100252: character/dwarf/female/dwarffemale_hd_bone_211
+    100254: character/dwarf/female/dwarffemale_hd_bone_212
+    100256: character/dwarf/female/dwarffemale_hd_bone_213
+    100258: character/dwarf/female/dwarffemale_hd_bone_214
+    100260: character/dwarf/female/dwarffemale_hd_bone_215
+    100262: character/dwarf/female/dwarffemale_hd_bone_216
+    100264: character/dwarf/female/dwarffemale_hd_bone_217
+    100266: character/dwarf/female/dwarffemale_hd_bone_218
+    100268: character/dwarf/female/dwarffemale_hd_bone_219
+    100270: character/dwarf/female/dwarffemale_hd_bone_22
+    100272: character/dwarf/female/dwarffemale_hd_bone_220
+    100274: character/dwarf/female/dwarffemale_hd_bone_221
+    100276: character/dwarf/female/dwarffemale_hd_bone_222
+    100278: character/dwarf/female/dwarffemale_hd_bone_223
+    100280: character/dwarf/female/dwarffemale_hd_bone_23
+    100282: character/dwarf/female/dwarffemale_hd_bone_24
+    100284: character/dwarf/female/dwarffemale_hd_bone_25
+    100286: character/dwarf/female/dwarffemale_hd_bone_26
+    100288: character/dwarf/female/dwarffemale_hd_bone_27
+    100290: character/dwarf/female/dwarffemale_hd_bone_28
+    100292: character/dwarf/female/dwarffemale_hd_bone_29
+    100294: character/dwarf/female/dwarffemale_hd_bone_3
+    100296: character/dwarf/female/dwarffemale_hd_bone_30
+    100298: character/dwarf/female/dwarffemale_hd_bone_31
+    100300: character/dwarf/female/dwarffemale_hd_bone_32
+    100302: character/dwarf/female/dwarffemale_hd_bone_33
+    100304: character/dwarf/female/dwarffemale_hd_bone_34
+    100306: character/dwarf/female/dwarffemale_hd_bone_35
+    100308: character/dwarf/female/dwarffemale_hd_bone_36
+    100310: character/dwarf/female/dwarffemale_hd_bone_37
+    100312: character/dwarf/female/dwarffemale_hd_bone_38
+    100314: character/dwarf/female/dwarffemale_hd_bone_39
+    100316: character/dwarf/female/dwarffemale_hd_bone_4
+    100318: character/dwarf/female/dwarffemale_hd_bone_40
+    100320: character/dwarf/female/dwarffemale_hd_bone_41
+    100322: character/dwarf/female/dwarffemale_hd_bone_42
+    100324: character/dwarf/female/dwarffemale_hd_bone_43
+    100326: character/dwarf/female/dwarffemale_hd_bone_44
+    100328: character/dwarf/female/dwarffemale_hd_bone_45
+    100330: character/dwarf/female/dwarffemale_hd_bone_46
+    100332: character/dwarf/female/dwarffemale_hd_bone_47
+    100334: character/dwarf/female/dwarffemale_hd_bone_48
+    100336: character/dwarf/female/dwarffemale_hd_bone_49
+    100338: character/dwarf/female/dwarffemale_hd_bone_5
+    100340: character/dwarf/female/dwarffemale_hd_bone_50
+    100342: character/dwarf/female/dwarffemale_hd_bone_51
+    100344: character/dwarf/female/dwarffemale_hd_bone_52
+    100346: character/dwarf/female/dwarffemale_hd_bone_53
+    100348: character/dwarf/female/dwarffemale_hd_bone_54
+    100350: character/dwarf/female/dwarffemale_hd_bone_55
+    100352: character/dwarf/female/dwarffemale_hd_bone_56
+    100354: character/dwarf/female/dwarffemale_hd_bone_57
+    100356: character/dwarf/female/dwarffemale_hd_bone_58
+    100358: character/dwarf/female/dwarffemale_hd_bone_59
+    100360: character/dwarf/female/dwarffemale_hd_bone_6
+    100362: character/dwarf/female/dwarffemale_hd_bone_60
+    100364: character/dwarf/female/dwarffemale_hd_bone_61
+    100366: character/dwarf/female/dwarffemale_hd_bone_62
+    100368: character/dwarf/female/dwarffemale_hd_bone_63
+    100370: character/dwarf/female/dwarffemale_hd_bone_64
+    100372: character/dwarf/female/dwarffemale_hd_bone_65
+    100374: character/dwarf/female/dwarffemale_hd_bone_66
+    100376: character/dwarf/female/dwarffemale_hd_bone_67
+    100378: character/dwarf/female/dwarffemale_hd_bone_68
+    100380: character/dwarf/female/dwarffemale_hd_bone_69
+    100382: character/dwarf/female/dwarffemale_hd_bone_7
+    100384: character/dwarf/female/dwarffemale_hd_bone_70
+    100386: character/dwarf/female/dwarffemale_hd_bone_71
+    100388: character/dwarf/female/dwarffemale_hd_bone_72
+    100390: character/dwarf/female/dwarffemale_hd_bone_73
+    100392: character/dwarf/female/dwarffemale_hd_bone_74
+    100394: character/dwarf/female/dwarffemale_hd_bone_75
+    100396: character/dwarf/female/dwarffemale_hd_bone_76
+    100398: character/dwarf/female/dwarffemale_hd_bone_77
+    100400: character/dwarf/female/dwarffemale_hd_bone_78
+    100402: character/dwarf/female/dwarffemale_hd_bone_79
+    100404: character/dwarf/female/dwarffemale_hd_bone_8
+    100406: character/dwarf/female/dwarffemale_hd_bone_80
+    100408: character/dwarf/female/dwarffemale_hd_bone_81
+    100410: character/dwarf/female/dwarffemale_hd_bone_82
+    100412: character/dwarf/female/dwarffemale_hd_bone_83
+    100414: character/dwarf/female/dwarffemale_hd_bone_84
+    100416: character/dwarf/female/dwarffemale_hd_bone_85
+    100418: character/dwarf/female/dwarffemale_hd_bone_86
+    100420: character/dwarf/female/dwarffemale_hd_bone_87
+    100422: character/dwarf/female/dwarffemale_hd_bone_88
+    100424: character/dwarf/female/dwarffemale_hd_bone_89
+    100426: character/dwarf/female/dwarffemale_hd_bone_9
+    100428: character/dwarf/female/dwarffemale_hd_bone_90
+    100430: character/dwarf/female/dwarffemale_hd_bone_91
+    100432: character/dwarf/female/dwarffemale_hd_bone_92
+    100434: character/dwarf/female/dwarffemale_hd_bone_93
+    100436: character/dwarf/female/dwarffemale_hd_bone_94
+    100438: character/dwarf/female/dwarffemale_hd_bone_95
+    100440: character/dwarf/female/dwarffemale_hd_bone_96
+    100442: character/dwarf/female/dwarffemale_hd_bone_97
+    100444: character/dwarf/female/dwarffemale_hd_bone_98
+    100446: character/dwarf/female/dwarffemale_hd_bone_99
+    100448: character/dwarf/female/dwarffemale_hd_rig
+    100450: //RootNode
+    400000: character/dwarf/female/dwarffemale_hd_bone_0
+    400002: character/dwarf/female/dwarffemale_hd_bone_1
+    400004: character/dwarf/female/dwarffemale_hd_bone_10
+    400006: character/dwarf/female/dwarffemale_hd_bone_100
+    400008: character/dwarf/female/dwarffemale_hd_bone_101
+    400010: character/dwarf/female/dwarffemale_hd_bone_102
+    400012: character/dwarf/female/dwarffemale_hd_bone_103
+    400014: character/dwarf/female/dwarffemale_hd_bone_104
+    400016: character/dwarf/female/dwarffemale_hd_bone_105
+    400018: character/dwarf/female/dwarffemale_hd_bone_106
+    400020: character/dwarf/female/dwarffemale_hd_bone_107
+    400022: character/dwarf/female/dwarffemale_hd_bone_108
+    400024: character/dwarf/female/dwarffemale_hd_bone_109
+    400026: character/dwarf/female/dwarffemale_hd_bone_11
+    400028: character/dwarf/female/dwarffemale_hd_bone_110
+    400030: character/dwarf/female/dwarffemale_hd_bone_111
+    400032: character/dwarf/female/dwarffemale_hd_bone_112
+    400034: character/dwarf/female/dwarffemale_hd_bone_113
+    400036: character/dwarf/female/dwarffemale_hd_bone_114
+    400038: character/dwarf/female/dwarffemale_hd_bone_115
+    400040: character/dwarf/female/dwarffemale_hd_bone_116
+    400042: character/dwarf/female/dwarffemale_hd_bone_117
+    400044: character/dwarf/female/dwarffemale_hd_bone_118
+    400046: character/dwarf/female/dwarffemale_hd_bone_119
+    400048: character/dwarf/female/dwarffemale_hd_bone_12
+    400050: character/dwarf/female/dwarffemale_hd_bone_120
+    400052: character/dwarf/female/dwarffemale_hd_bone_121
+    400054: character/dwarf/female/dwarffemale_hd_bone_122
+    400056: character/dwarf/female/dwarffemale_hd_bone_123
+    400058: character/dwarf/female/dwarffemale_hd_bone_124
+    400060: character/dwarf/female/dwarffemale_hd_bone_125
+    400062: character/dwarf/female/dwarffemale_hd_bone_126
+    400064: character/dwarf/female/dwarffemale_hd_bone_127
+    400066: character/dwarf/female/dwarffemale_hd_bone_128
+    400068: character/dwarf/female/dwarffemale_hd_bone_129
+    400070: character/dwarf/female/dwarffemale_hd_bone_13
+    400072: character/dwarf/female/dwarffemale_hd_bone_130
+    400074: character/dwarf/female/dwarffemale_hd_bone_131
+    400076: character/dwarf/female/dwarffemale_hd_bone_132
+    400078: character/dwarf/female/dwarffemale_hd_bone_133
+    400080: character/dwarf/female/dwarffemale_hd_bone_134
+    400082: character/dwarf/female/dwarffemale_hd_bone_135
+    400084: character/dwarf/female/dwarffemale_hd_bone_136
+    400086: character/dwarf/female/dwarffemale_hd_bone_137
+    400088: character/dwarf/female/dwarffemale_hd_bone_138
+    400090: character/dwarf/female/dwarffemale_hd_bone_139
+    400092: character/dwarf/female/dwarffemale_hd_bone_14
+    400094: character/dwarf/female/dwarffemale_hd_bone_140
+    400096: character/dwarf/female/dwarffemale_hd_bone_141
+    400098: character/dwarf/female/dwarffemale_hd_bone_142
+    400100: character/dwarf/female/dwarffemale_hd_bone_143
+    400102: character/dwarf/female/dwarffemale_hd_bone_144
+    400104: character/dwarf/female/dwarffemale_hd_bone_145
+    400106: character/dwarf/female/dwarffemale_hd_bone_146
+    400108: character/dwarf/female/dwarffemale_hd_bone_147
+    400110: character/dwarf/female/dwarffemale_hd_bone_148
+    400112: character/dwarf/female/dwarffemale_hd_bone_149
+    400114: character/dwarf/female/dwarffemale_hd_bone_15
+    400116: character/dwarf/female/dwarffemale_hd_bone_150
+    400118: character/dwarf/female/dwarffemale_hd_bone_151
+    400120: character/dwarf/female/dwarffemale_hd_bone_152
+    400122: character/dwarf/female/dwarffemale_hd_bone_153
+    400124: character/dwarf/female/dwarffemale_hd_bone_154
+    400126: character/dwarf/female/dwarffemale_hd_bone_155
+    400128: character/dwarf/female/dwarffemale_hd_bone_156
+    400130: character/dwarf/female/dwarffemale_hd_bone_157
+    400132: character/dwarf/female/dwarffemale_hd_bone_158
+    400134: character/dwarf/female/dwarffemale_hd_bone_159
+    400136: character/dwarf/female/dwarffemale_hd_bone_16
+    400138: character/dwarf/female/dwarffemale_hd_bone_160
+    400140: character/dwarf/female/dwarffemale_hd_bone_161
+    400142: character/dwarf/female/dwarffemale_hd_bone_162
+    400144: character/dwarf/female/dwarffemale_hd_bone_163
+    400146: character/dwarf/female/dwarffemale_hd_bone_164
+    400148: character/dwarf/female/dwarffemale_hd_bone_165
+    400150: character/dwarf/female/dwarffemale_hd_bone_166
+    400152: character/dwarf/female/dwarffemale_hd_bone_167
+    400154: character/dwarf/female/dwarffemale_hd_bone_168
+    400156: character/dwarf/female/dwarffemale_hd_bone_169
+    400158: character/dwarf/female/dwarffemale_hd_bone_17
+    400160: character/dwarf/female/dwarffemale_hd_bone_170
+    400162: character/dwarf/female/dwarffemale_hd_bone_171
+    400164: character/dwarf/female/dwarffemale_hd_bone_172
+    400166: character/dwarf/female/dwarffemale_hd_bone_173
+    400168: character/dwarf/female/dwarffemale_hd_bone_174
+    400170: character/dwarf/female/dwarffemale_hd_bone_175
+    400172: character/dwarf/female/dwarffemale_hd_bone_176
+    400174: character/dwarf/female/dwarffemale_hd_bone_177
+    400176: character/dwarf/female/dwarffemale_hd_bone_178
+    400178: character/dwarf/female/dwarffemale_hd_bone_179
+    400180: character/dwarf/female/dwarffemale_hd_bone_18
+    400182: character/dwarf/female/dwarffemale_hd_bone_180
+    400184: character/dwarf/female/dwarffemale_hd_bone_181
+    400186: character/dwarf/female/dwarffemale_hd_bone_182
+    400188: character/dwarf/female/dwarffemale_hd_bone_183
+    400190: character/dwarf/female/dwarffemale_hd_bone_184
+    400192: character/dwarf/female/dwarffemale_hd_bone_185
+    400194: character/dwarf/female/dwarffemale_hd_bone_186
+    400196: character/dwarf/female/dwarffemale_hd_bone_187
+    400198: character/dwarf/female/dwarffemale_hd_bone_188
+    400200: character/dwarf/female/dwarffemale_hd_bone_189
+    400202: character/dwarf/female/dwarffemale_hd_bone_19
+    400204: character/dwarf/female/dwarffemale_hd_bone_190
+    400206: character/dwarf/female/dwarffemale_hd_bone_191
+    400208: character/dwarf/female/dwarffemale_hd_bone_192
+    400210: character/dwarf/female/dwarffemale_hd_bone_193
+    400212: character/dwarf/female/dwarffemale_hd_bone_194
+    400214: character/dwarf/female/dwarffemale_hd_bone_195
+    400216: character/dwarf/female/dwarffemale_hd_bone_196
+    400218: character/dwarf/female/dwarffemale_hd_bone_197
+    400220: character/dwarf/female/dwarffemale_hd_bone_198
+    400222: character/dwarf/female/dwarffemale_hd_bone_199
+    400224: character/dwarf/female/dwarffemale_hd_bone_2
+    400226: character/dwarf/female/dwarffemale_hd_bone_20
+    400228: character/dwarf/female/dwarffemale_hd_bone_200
+    400230: character/dwarf/female/dwarffemale_hd_bone_201
+    400232: character/dwarf/female/dwarffemale_hd_bone_202
+    400234: character/dwarf/female/dwarffemale_hd_bone_203
+    400236: character/dwarf/female/dwarffemale_hd_bone_204
+    400238: character/dwarf/female/dwarffemale_hd_bone_205
+    400240: character/dwarf/female/dwarffemale_hd_bone_206
+    400242: character/dwarf/female/dwarffemale_hd_bone_207
+    400244: character/dwarf/female/dwarffemale_hd_bone_208
+    400246: character/dwarf/female/dwarffemale_hd_bone_209
+    400248: character/dwarf/female/dwarffemale_hd_bone_21
+    400250: character/dwarf/female/dwarffemale_hd_bone_210
+    400252: character/dwarf/female/dwarffemale_hd_bone_211
+    400254: character/dwarf/female/dwarffemale_hd_bone_212
+    400256: character/dwarf/female/dwarffemale_hd_bone_213
+    400258: character/dwarf/female/dwarffemale_hd_bone_214
+    400260: character/dwarf/female/dwarffemale_hd_bone_215
+    400262: character/dwarf/female/dwarffemale_hd_bone_216
+    400264: character/dwarf/female/dwarffemale_hd_bone_217
+    400266: character/dwarf/female/dwarffemale_hd_bone_218
+    400268: character/dwarf/female/dwarffemale_hd_bone_219
+    400270: character/dwarf/female/dwarffemale_hd_bone_22
+    400272: character/dwarf/female/dwarffemale_hd_bone_220
+    400274: character/dwarf/female/dwarffemale_hd_bone_221
+    400276: character/dwarf/female/dwarffemale_hd_bone_222
+    400278: character/dwarf/female/dwarffemale_hd_bone_223
+    400280: character/dwarf/female/dwarffemale_hd_bone_23
+    400282: character/dwarf/female/dwarffemale_hd_bone_24
+    400284: character/dwarf/female/dwarffemale_hd_bone_25
+    400286: character/dwarf/female/dwarffemale_hd_bone_26
+    400288: character/dwarf/female/dwarffemale_hd_bone_27
+    400290: character/dwarf/female/dwarffemale_hd_bone_28
+    400292: character/dwarf/female/dwarffemale_hd_bone_29
+    400294: character/dwarf/female/dwarffemale_hd_bone_3
+    400296: character/dwarf/female/dwarffemale_hd_bone_30
+    400298: character/dwarf/female/dwarffemale_hd_bone_31
+    400300: character/dwarf/female/dwarffemale_hd_bone_32
+    400302: character/dwarf/female/dwarffemale_hd_bone_33
+    400304: character/dwarf/female/dwarffemale_hd_bone_34
+    400306: character/dwarf/female/dwarffemale_hd_bone_35
+    400308: character/dwarf/female/dwarffemale_hd_bone_36
+    400310: character/dwarf/female/dwarffemale_hd_bone_37
+    400312: character/dwarf/female/dwarffemale_hd_bone_38
+    400314: character/dwarf/female/dwarffemale_hd_bone_39
+    400316: character/dwarf/female/dwarffemale_hd_bone_4
+    400318: character/dwarf/female/dwarffemale_hd_bone_40
+    400320: character/dwarf/female/dwarffemale_hd_bone_41
+    400322: character/dwarf/female/dwarffemale_hd_bone_42
+    400324: character/dwarf/female/dwarffemale_hd_bone_43
+    400326: character/dwarf/female/dwarffemale_hd_bone_44
+    400328: character/dwarf/female/dwarffemale_hd_bone_45
+    400330: character/dwarf/female/dwarffemale_hd_bone_46
+    400332: character/dwarf/female/dwarffemale_hd_bone_47
+    400334: character/dwarf/female/dwarffemale_hd_bone_48
+    400336: character/dwarf/female/dwarffemale_hd_bone_49
+    400338: character/dwarf/female/dwarffemale_hd_bone_5
+    400340: character/dwarf/female/dwarffemale_hd_bone_50
+    400342: character/dwarf/female/dwarffemale_hd_bone_51
+    400344: character/dwarf/female/dwarffemale_hd_bone_52
+    400346: character/dwarf/female/dwarffemale_hd_bone_53
+    400348: character/dwarf/female/dwarffemale_hd_bone_54
+    400350: character/dwarf/female/dwarffemale_hd_bone_55
+    400352: character/dwarf/female/dwarffemale_hd_bone_56
+    400354: character/dwarf/female/dwarffemale_hd_bone_57
+    400356: character/dwarf/female/dwarffemale_hd_bone_58
+    400358: character/dwarf/female/dwarffemale_hd_bone_59
+    400360: character/dwarf/female/dwarffemale_hd_bone_6
+    400362: character/dwarf/female/dwarffemale_hd_bone_60
+    400364: character/dwarf/female/dwarffemale_hd_bone_61
+    400366: character/dwarf/female/dwarffemale_hd_bone_62
+    400368: character/dwarf/female/dwarffemale_hd_bone_63
+    400370: character/dwarf/female/dwarffemale_hd_bone_64
+    400372: character/dwarf/female/dwarffemale_hd_bone_65
+    400374: character/dwarf/female/dwarffemale_hd_bone_66
+    400376: character/dwarf/female/dwarffemale_hd_bone_67
+    400378: character/dwarf/female/dwarffemale_hd_bone_68
+    400380: character/dwarf/female/dwarffemale_hd_bone_69
+    400382: character/dwarf/female/dwarffemale_hd_bone_7
+    400384: character/dwarf/female/dwarffemale_hd_bone_70
+    400386: character/dwarf/female/dwarffemale_hd_bone_71
+    400388: character/dwarf/female/dwarffemale_hd_bone_72
+    400390: character/dwarf/female/dwarffemale_hd_bone_73
+    400392: character/dwarf/female/dwarffemale_hd_bone_74
+    400394: character/dwarf/female/dwarffemale_hd_bone_75
+    400396: character/dwarf/female/dwarffemale_hd_bone_76
+    400398: character/dwarf/female/dwarffemale_hd_bone_77
+    400400: character/dwarf/female/dwarffemale_hd_bone_78
+    400402: character/dwarf/female/dwarffemale_hd_bone_79
+    400404: character/dwarf/female/dwarffemale_hd_bone_8
+    400406: character/dwarf/female/dwarffemale_hd_bone_80
+    400408: character/dwarf/female/dwarffemale_hd_bone_81
+    400410: character/dwarf/female/dwarffemale_hd_bone_82
+    400412: character/dwarf/female/dwarffemale_hd_bone_83
+    400414: character/dwarf/female/dwarffemale_hd_bone_84
+    400416: character/dwarf/female/dwarffemale_hd_bone_85
+    400418: character/dwarf/female/dwarffemale_hd_bone_86
+    400420: character/dwarf/female/dwarffemale_hd_bone_87
+    400422: character/dwarf/female/dwarffemale_hd_bone_88
+    400424: character/dwarf/female/dwarffemale_hd_bone_89
+    400426: character/dwarf/female/dwarffemale_hd_bone_9
+    400428: character/dwarf/female/dwarffemale_hd_bone_90
+    400430: character/dwarf/female/dwarffemale_hd_bone_91
+    400432: character/dwarf/female/dwarffemale_hd_bone_92
+    400434: character/dwarf/female/dwarffemale_hd_bone_93
+    400436: character/dwarf/female/dwarffemale_hd_bone_94
+    400438: character/dwarf/female/dwarffemale_hd_bone_95
+    400440: character/dwarf/female/dwarffemale_hd_bone_96
+    400442: character/dwarf/female/dwarffemale_hd_bone_97
+    400444: character/dwarf/female/dwarffemale_hd_bone_98
+    400446: character/dwarf/female/dwarffemale_hd_bone_99
+    400448: character/dwarf/female/dwarffemale_hd_rig
+    400450: //RootNode
+    7400000: DruReadySpellCast [254]
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: "Copied Avatar Rig Configuration mis-match. Bone length in
+      copied configuration does not match position in animation file:\n\t'character/dwarf/female/dwarffemale_hd_bone_62'
+      : position error = 28.961723 mm\n\t'character/dwarf/female/dwarffemale_hd_bone_78'
+      : position error = 28.961721 mm\nCopied Avatar Rig Configuration mis-match.
+      Inbetween bone rotation in copied configuration does not match rotation in animation
+      file:\n\t'character/dwarf/female/dwarffemale_hd_bone_38' : rotation error =
+      12.413543 deg\n\t'character/dwarf/female/dwarffemale_hd_bone_35' : rotation
+      error = 2.967674 deg\n\t'character/dwarf/female/dwarffemale_hd_bone_93' : rotation
+      error = 0.118900 deg\n"
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'DruReadySpellCast [254]' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation DOF
+      on avatar to improve retargeting quality.\n\t'character/dwarf/female/dwarffemale_hd_bone_2'
+      has translation animation that will be discarded.\n\t'character/dwarf/female/dwarffemale_hd_bone_2'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'character/dwarf/female/dwarffemale_hd_bone_37'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'character/dwarf/female/dwarffemale_hd_bone_38'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'character/dwarf/female/dwarffemale_hd_bone_93'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: DruReadySpellCast [254]
+      takeName: DruReadySpellCast [254]
+      firstFrame: 0
+      lastFrame: 44.25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_1
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_13
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_11
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_19
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_17
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_30
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_28
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_3
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_9
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_25
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_46
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_21
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_22
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_31
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_32
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_41
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_42
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_49
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_55
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_48
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_47
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_63
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_121
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_101
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_130
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_100
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_129
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_103
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_132
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_102
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_131
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_99
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_128
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_110
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_137
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_108
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_135
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_107
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_134
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_106
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_133
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_109
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_136
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_14
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character/dwarf/female/dwarffemale_hd_bone_77
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: dwarf(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd
+      parentName: dwarf(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_rig
+      parentName: dwarf(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_0
+      parentName: character/dwarf/female/dwarffemale_hd_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_1
+      parentName: character/dwarf/female/dwarffemale_hd_bone_0
+      position: {x: -0.000000033527613, y: 0.41666687, z: 0}
+      rotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_2
+      parentName: character/dwarf/female/dwarffemale_hd_bone_1
+      position: {x: 0.000041648746, y: -0.032113936, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_4
+      parentName: character/dwarf/female/dwarffemale_hd_bone_2
+      position: {x: -0.078411765, y: -0.025904626, z: -0.000620914}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_10
+      parentName: character/dwarf/female/dwarffemale_hd_bone_4
+      position: {x: -0, y: -0.058741897, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_15
+      parentName: character/dwarf/female/dwarffemale_hd_bone_10
+      position: {x: -0, y: -0.060339358, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_27
+      parentName: character/dwarf/female/dwarffemale_hd_bone_15
+      position: {x: -0, y: -0.070538685, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_5
+      parentName: character/dwarf/female/dwarffemale_hd_bone_2
+      position: {x: -0.000000011175871, y: 0.000000059604645, z: 0.014381951}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_11
+      parentName: character/dwarf/female/dwarffemale_hd_bone_5
+      position: {x: 0.009534452, y: -0.024083346, z: 0.05156281}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_16
+      parentName: character/dwarf/female/dwarffemale_hd_bone_11
+      position: {x: -0.012376536, y: -0.1623765, z: 0.012707077}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_17
+      parentName: character/dwarf/female/dwarffemale_hd_bone_11
+      position: {x: -0.012376536, y: -0.1623765, z: 0.012707077}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_28
+      parentName: character/dwarf/female/dwarffemale_hd_bone_17
+      position: {x: 0.026100151, y: -0.14161366, z: 0.010660157}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_37
+      parentName: character/dwarf/female/dwarffemale_hd_bone_28
+      position: {x: -0, y: -0.000000007450581, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_47
+      parentName: character/dwarf/female/dwarffemale_hd_bone_37
+      position: {x: -0.08515114, y: -0.04421761, z: -0.0012522265}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_199
+      parentName: character/dwarf/female/dwarffemale_hd_bone_37
+      position: {x: 0.000013694167, y: 0.000010915101, z: -0.0000013411045}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_206
+      parentName: character/dwarf/female/dwarffemale_hd_bone_37
+      position: {x: -0.056938943, y: -0.056479473, z: -0.0000013113022}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_192
+      parentName: character/dwarf/female/dwarffemale_hd_bone_17
+      position: {x: -0.056167226, y: -0.010244012, z: 0.0014333278}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_6
+      parentName: character/dwarf/female/dwarffemale_hd_bone_2
+      position: {x: 0.08472435, y: -0.016303062, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_12
+      parentName: character/dwarf/female/dwarffemale_hd_bone_6
+      position: {x: 0.004519254, y: -0.06996778, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_18
+      parentName: character/dwarf/female/dwarffemale_hd_bone_12
+      position: {x: -0.000000014901161, y: -0.060442936, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_29
+      parentName: character/dwarf/female/dwarffemale_hd_bone_18
+      position: {x: -0, y: -0.067547515, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_7
+      parentName: character/dwarf/female/dwarffemale_hd_bone_2
+      position: {x: -0, y: 0, z: -0.014381899}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_13
+      parentName: character/dwarf/female/dwarffemale_hd_bone_7
+      position: {x: 0.0095344335, y: -0.024083257, z: -0.0515628}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_19
+      parentName: character/dwarf/female/dwarffemale_hd_bone_13
+      position: {x: -0.012376536, y: -0.16237718, z: -0.01270718}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_30
+      parentName: character/dwarf/female/dwarffemale_hd_bone_19
+      position: {x: 0.026100092, y: -0.14161298, z: -0.010660059}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_38
+      parentName: character/dwarf/female/dwarffemale_hd_bone_30
+      position: {x: 0.000000007450581, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_48
+      parentName: character/dwarf/female/dwarffemale_hd_bone_38
+      position: {x: -0.08515104, y: -0.044217676, z: 0.0012522265}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_196
+      parentName: character/dwarf/female/dwarffemale_hd_bone_38
+      position: {x: -0.056936514, y: -0.05647952, z: 0.000000059604645}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_202
+      parentName: character/dwarf/female/dwarffemale_hd_bone_38
+      position: {x: 0.00000008940697, y: 0.00000010058284, z: 0.000000044703484}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_20
+      parentName: character/dwarf/female/dwarffemale_hd_bone_13
+      position: {x: -0.012376536, y: -0.16237718, z: -0.01270718}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_193
+      parentName: character/dwarf/female/dwarffemale_hd_bone_20
+      position: {x: -0.05694695, y: 0.0042935014, z: 0.00060070306}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_175
+      parentName: character/dwarf/female/dwarffemale_hd_bone_7
+      position: {x: 0.009346776, y: 0.0115175545, z: -0.08822787}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_176
+      parentName: character/dwarf/female/dwarffemale_hd_bone_7
+      position: {x: -0.01817733, y: 0.025350122, z: -0.09076933}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_177
+      parentName: character/dwarf/female/dwarffemale_hd_bone_7
+      position: {x: -0.018141795, y: 0.025345385, z: 0.119534664}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_179
+      parentName: character/dwarf/female/dwarffemale_hd_bone_7
+      position: {x: 0.009347594, y: 0.017329007, z: 0.11953203}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_8
+      parentName: character/dwarf/female/dwarffemale_hd_bone_2
+      position: {x: -0.08379185, y: -0.015149951, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_178
+      parentName: character/dwarf/female/dwarffemale_hd_bone_8
+      position: {x: -0, y: -0.00000011920929, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_3
+      parentName: character/dwarf/female/dwarffemale_hd_bone_1
+      position: {x: 0.010219447, y: -0.0060375333, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_9
+      parentName: character/dwarf/female/dwarffemale_hd_bone_3
+      position: {x: 0.0058424654, y: 0.041260183, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_14
+      parentName: character/dwarf/female/dwarffemale_hd_bone_9
+      position: {x: 0.01581917, y: 0.036721557, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_21
+      parentName: character/dwarf/female/dwarffemale_hd_bone_14
+      position: {x: -0.008125886, y: 0.07734278, z: -0.025165264}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_31
+      parentName: character/dwarf/female/dwarffemale_hd_bone_21
+      position: {x: 0.006370768, y: 0.012899756, z: -0.0714041}
+      rotation: {x: 0.35141537, y: -0.002956688, z: -0.00000004470348, w: 0.93621504}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_39
+      parentName: character/dwarf/female/dwarffemale_hd_bone_31
+      position: {x: -0.00078175217, y: -0.09291463, z: -0.0963816}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_204
+      parentName: character/dwarf/female/dwarffemale_hd_bone_39
+      position: {x: -0.001566805, y: -0.14566098, z: -0.082074076}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_40
+      parentName: character/dwarf/female/dwarffemale_hd_bone_31
+      position: {x: -0.0003908798, y: -0.04645729, z: -0.048190806}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_41
+      parentName: character/dwarf/female/dwarffemale_hd_bone_31
+      position: {x: -0.00078175217, y: -0.09291463, z: -0.0963816}
+      rotation: {x: 0.015788702, y: -0.05368852, z: 0.046799246, w: 0.9973355}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_49
+      parentName: character/dwarf/female/dwarffemale_hd_bone_41
+      position: {x: -0.020413943, y: -0.062669806, z: -0.06500825}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_99
+      parentName: character/dwarf/female/dwarffemale_hd_bone_49
+      position: {x: 0.010879517, y: -0.036412954, z: -0.05409461}
+      rotation: {x: 0.24161536, y: -0.0074794693, z: -0.07527503, w: 0.9674192}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_128
+      parentName: character/dwarf/female/dwarffemale_hd_bone_99
+      position: {x: -0.0028118228, y: -0.020950854, z: -0.0069436133}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_100
+      parentName: character/dwarf/female/dwarffemale_hd_bone_49
+      position: {x: -0.032919258, y: -0.033877343, z: -0.05000263}
+      rotation: {x: 0.19476327, y: -0.02651869, z: -0.046698086, w: 0.97937906}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_129
+      parentName: character/dwarf/female/dwarffemale_hd_bone_100
+      position: {x: -0.005471383, y: -0.022916107, z: -0.009806037}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_101
+      parentName: character/dwarf/female/dwarffemale_hd_bone_49
+      position: {x: -0.02573057, y: -0.030778527, z: -0.0018101633}
+      rotation: {x: 0.10356029, y: -0.0009943134, z: -0.21404482, w: 0.97131824}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_130
+      parentName: character/dwarf/female/dwarffemale_hd_bone_101
+      position: {x: -0.016199438, y: -0.022107271, z: -0.007734984}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_102
+      parentName: character/dwarf/female/dwarffemale_hd_bone_49
+      position: {x: -0.0041646394, y: -0.039418668, z: -0.055517882}
+      rotation: {x: 0.18218295, y: 0.0054650255, z: -0.064335756, w: 0.98114246}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_131
+      parentName: character/dwarf/female/dwarffemale_hd_bone_102
+      position: {x: -0.0027626716, y: -0.019977182, z: -0.009520203}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_103
+      parentName: character/dwarf/female/dwarffemale_hd_bone_49
+      position: {x: -0.018224776, y: -0.037379116, z: -0.054783285}
+      rotation: {x: 0.21578395, y: -0.014314795, z: -0.062017903, w: 0.9743645}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_132
+      parentName: character/dwarf/female/dwarffemale_hd_bone_103
+      position: {x: -0.00396847, y: -0.02236852, z: -0.00864476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_104
+      parentName: character/dwarf/female/dwarffemale_hd_bone_49
+      position: {x: -0.050597124, y: -0.42326915, z: 0.25795922}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_214
+      parentName: character/dwarf/female/dwarffemale_hd_bone_104
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_218
+      parentName: character/dwarf/female/dwarffemale_hd_bone_104
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_222
+      parentName: character/dwarf/female/dwarffemale_hd_bone_104
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_105
+      parentName: character/dwarf/female/dwarffemale_hd_bone_49
+      position: {x: -0.050597124, y: -0.42326915, z: 0.25795922}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_220
+      parentName: character/dwarf/female/dwarffemale_hd_bone_105
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_50
+      parentName: character/dwarf/female/dwarffemale_hd_bone_41
+      position: {x: -0.010206971, y: -0.031334903, z: -0.032504108}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_51
+      parentName: character/dwarf/female/dwarffemale_hd_bone_41
+      position: {x: -0.020413943, y: -0.062669806, z: -0.06500825}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_52
+      parentName: character/dwarf/female/dwarffemale_hd_bone_41
+      position: {x: -0.07101107, y: -0.48593894, z: 0.19295096}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_212
+      parentName: character/dwarf/female/dwarffemale_hd_bone_52
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_201
+      parentName: character/dwarf/female/dwarffemale_hd_bone_41
+      position: {x: 0.023262136, y: -0.0034314692, z: -0.003996685}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_194
+      parentName: character/dwarf/female/dwarffemale_hd_bone_31
+      position: {x: 0.0022944734, y: 0.024660826, z: 0.021699429}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_22
+      parentName: character/dwarf/female/dwarffemale_hd_bone_14
+      position: {x: -0.008125818, y: 0.077343434, z: 0.025165152}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_32
+      parentName: character/dwarf/female/dwarffemale_hd_bone_22
+      position: {x: 0.0063707004, y: 0.012898564, z: 0.071404204}
+      rotation: {x: -0.35141236, y: 0.0029569268, z: 0.000000044703484, w: 0.9362162}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_42
+      parentName: character/dwarf/female/dwarffemale_hd_bone_32
+      position: {x: -0.0007818118, y: -0.092913985, z: 0.09638211}
+      rotation: {x: -0.015789773, y: 0.053688712, z: 0.046798773, w: 0.99733555}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_53
+      parentName: character/dwarf/female/dwarffemale_hd_bone_42
+      position: {x: -0.010206944, y: -0.031334665, z: 0.032504216}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_54
+      parentName: character/dwarf/female/dwarffemale_hd_bone_42
+      position: {x: -0.020413894, y: -0.062669426, z: 0.0650084}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_55
+      parentName: character/dwarf/female/dwarffemale_hd_bone_42
+      position: {x: -0.020413894, y: -0.062669426, z: 0.0650084}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_106
+      parentName: character/dwarf/female/dwarffemale_hd_bone_55
+      position: {x: -0.00416458, y: -0.03941944, z: 0.05551666}
+      rotation: {x: -0.18215796, y: -0.005467264, z: -0.064330116, w: 0.98114747}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_133
+      parentName: character/dwarf/female/dwarffemale_hd_bone_106
+      position: {x: -0.002762783, y: -0.019976407, z: 0.0095208585}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_107
+      parentName: character/dwarf/female/dwarffemale_hd_bone_55
+      position: {x: -0.018224735, y: -0.03737917, z: 0.054782003}
+      rotation: {x: -0.21576732, y: 0.014308378, z: -0.06201779, w: 0.97436833}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_134
+      parentName: character/dwarf/female/dwarffemale_hd_bone_107
+      position: {x: -0.003968479, y: -0.022369474, z: 0.008645833}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_108
+      parentName: character/dwarf/female/dwarffemale_hd_bone_55
+      position: {x: -0.03291919, y: -0.03387779, z: 0.05000141}
+      rotation: {x: -0.19474636, y: 0.026512736, z: -0.046697263, w: 0.97938263}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_135
+      parentName: character/dwarf/female/dwarffemale_hd_bone_108
+      position: {x: -0.0054714433, y: -0.022916675, z: 0.009806961}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_109
+      parentName: character/dwarf/female/dwarffemale_hd_bone_55
+      position: {x: 0.010879595, y: -0.03641388, z: 0.054094493}
+      rotation: {x: -0.24161428, y: 0.0074835317, z: -0.07527324, w: 0.96741956}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_136
+      parentName: character/dwarf/female/dwarffemale_hd_bone_109
+      position: {x: -0.0028119609, y: -0.020950079, z: 0.0069430172}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_110
+      parentName: character/dwarf/female/dwarffemale_hd_bone_55
+      position: {x: -0.02573057, y: -0.030779151, z: 0.0018097162}
+      rotation: {x: -0.10355704, y: 0.0009961573, z: -0.21404034, w: 0.97131956}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_137
+      parentName: character/dwarf/female/dwarffemale_hd_bone_110
+      position: {x: -0.016199432, y: -0.022106975, z: 0.007734716}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_111
+      parentName: character/dwarf/female/dwarffemale_hd_bone_55
+      position: {x: -0.050597113, y: -0.42326963, z: -0.25795987}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_216
+      parentName: character/dwarf/female/dwarffemale_hd_bone_111
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_223
+      parentName: character/dwarf/female/dwarffemale_hd_bone_216
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_217
+      parentName: character/dwarf/female/dwarffemale_hd_bone_111
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_221
+      parentName: character/dwarf/female/dwarffemale_hd_bone_111
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_112
+      parentName: character/dwarf/female/dwarffemale_hd_bone_55
+      position: {x: -0.050597113, y: -0.42326963, z: -0.25795987}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_215
+      parentName: character/dwarf/female/dwarffemale_hd_bone_112
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_219
+      parentName: character/dwarf/female/dwarffemale_hd_bone_112
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_208
+      parentName: character/dwarf/female/dwarffemale_hd_bone_55
+      position: {x: -0.022615615, y: 0.0502637, z: 0.030536622}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_209
+      parentName: character/dwarf/female/dwarffemale_hd_bone_55
+      position: {x: -0.0521008, y: -0.31223202, z: 0.23135072}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_210
+      parentName: character/dwarf/female/dwarffemale_hd_bone_55
+      position: {x: -0.050597113, y: -0.42326963, z: -0.25795987}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_211
+      parentName: character/dwarf/female/dwarffemale_hd_bone_55
+      position: {x: -0.050597113, y: -0.42326963, z: -0.25795987}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_213
+      parentName: character/dwarf/female/dwarffemale_hd_bone_55
+      position: {x: -0.022615613, y: 0.0502637, z: 0.030536622}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_200
+      parentName: character/dwarf/female/dwarffemale_hd_bone_42
+      position: {x: 0.02326212, y: -0.0034314692, z: 0.003996685}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_43
+      parentName: character/dwarf/female/dwarffemale_hd_bone_32
+      position: {x: -0.0007818118, y: -0.092913985, z: 0.09638211}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_44
+      parentName: character/dwarf/female/dwarffemale_hd_bone_32
+      position: {x: -0.00039090216, y: -0.046456993, z: 0.048191056}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_195
+      parentName: character/dwarf/female/dwarffemale_hd_bone_32
+      position: {x: 0.005358331, y: 0.025612712, z: -0.024173697}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_23
+      parentName: character/dwarf/female/dwarffemale_hd_bone_14
+      position: {x: -0.086373776, y: 0.03516641, z: -0.052140974}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_33
+      parentName: character/dwarf/female/dwarffemale_hd_bone_23
+      position: {x: -0.04253327, y: 0, z: -0.010431349}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_24
+      parentName: character/dwarf/female/dwarffemale_hd_bone_14
+      position: {x: 0.05803386, y: 0.045664933, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_34
+      parentName: character/dwarf/female/dwarffemale_hd_bone_24
+      position: {x: -0, y: -0.08612495, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_45
+      parentName: character/dwarf/female/dwarffemale_hd_bone_34
+      position: {x: -0, y: -0.077090114, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_56
+      parentName: character/dwarf/female/dwarffemale_hd_bone_45
+      position: {x: -0, y: -0.078592986, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_113
+      parentName: character/dwarf/female/dwarffemale_hd_bone_56
+      position: {x: -0, y: -0.076533794, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_138
+      parentName: character/dwarf/female/dwarffemale_hd_bone_113
+      position: {x: -0, y: -0.073101774, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_25
+      parentName: character/dwarf/female/dwarffemale_hd_bone_14
+      position: {x: -0.0013464689, y: 0.12669435, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_35
+      parentName: character/dwarf/female/dwarffemale_hd_bone_25
+      position: {x: -0.006327443, y: 0.025323391, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_46
+      parentName: character/dwarf/female/dwarffemale_hd_bone_35
+      position: {x: -0.0032527745, y: 0.017468333, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_57
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: -0.068747595, y: 0.044587553, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_58
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: 0.05379478, y: 0.007126808, z: 0.029917933}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_114
+      parentName: character/dwarf/female/dwarffemale_hd_bone_58
+      position: {x: 0.019711532, y: -0.08048611, z: 0.0035823619}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_139
+      parentName: character/dwarf/female/dwarffemale_hd_bone_114
+      position: {x: -0.002521798, y: -0.08940974, z: 0.0019988902}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_145
+      parentName: character/dwarf/female/dwarffemale_hd_bone_139
+      position: {x: -0.0007454157, y: -0.08829737, z: 0.0017111152}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_59
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: -0.06725635, y: 0.020375073, z: 0.010766208}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_60
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: 0.04906767, y: -0.032530785, z: 0.027141757}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_115
+      parentName: character/dwarf/female/dwarffemale_hd_bone_60
+      position: {x: -0.03304515, y: -0.007897437, z: 0.036911435}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_140
+      parentName: character/dwarf/female/dwarffemale_hd_bone_115
+      position: {x: -0.036264006, y: -0.005118847, z: 0.010311507}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_146
+      parentName: character/dwarf/female/dwarffemale_hd_bone_140
+      position: {x: -0.036260862, y: -0.031050503, z: -0.0049754083}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_149
+      parentName: character/dwarf/female/dwarffemale_hd_bone_146
+      position: {x: -0.055715952, y: -0.022815347, z: -0.019048676}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_150
+      parentName: character/dwarf/female/dwarffemale_hd_bone_149
+      position: {x: -0.012515857, y: -0.05541187, z: -0.0042813197}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_151
+      parentName: character/dwarf/female/dwarffemale_hd_bone_150
+      position: {x: -0.0044435225, y: -0.033658326, z: -0.0003026873}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_61
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: -0.06902574, y: 0.04260844, z: -0.010185791}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_62
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: -0.062360328, y: 0.027564824, z: -0.023240179}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_63
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: -0.061692808, y: 0.025670469, z: -0.023116507}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_64
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: -0.05378867, y: 0.031618297, z: -0.018569117}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_65
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: -0.066100866, y: -0.0040555, z: 0.016885834}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_66
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: -0.06952744, y: -0.0019527078, z: 0.011359598}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_67
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: -0.071393415, y: -0.0018943548, z: 0.0052694306}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_68
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: -0.057486266, y: 0.06516397, z: -0.021296807}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_69
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: -0.07029434, y: 0.0062681437, z: 0.011377677}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_70
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: -0.06557939, y: 0.046162546, z: -0.021686528}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_71
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: -0.05629259, y: 0.04266119, z: -0.03339305}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_72
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: -0.067438595, y: 0.0048000813, z: 0.017402083}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_73
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: -0.05626529, y: 0.0007917285, z: 0.031410832}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_74
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: -0.054891415, y: 0.017006993, z: 0.03425153}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_75
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: 0.05379482, y: 0.007127404, z: -0.029918134}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_116
+      parentName: character/dwarf/female/dwarffemale_hd_bone_75
+      position: {x: 0.019711472, y: -0.08048624, z: -0.0035824254}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_141
+      parentName: character/dwarf/female/dwarffemale_hd_bone_116
+      position: {x: -0.0025217533, y: -0.08941051, z: -0.0019988194}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_147
+      parentName: character/dwarf/female/dwarffemale_hd_bone_141
+      position: {x: -0.0007454902, y: -0.0882971, z: -0.0017111339}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_76
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: -0.073519446, y: 0.01393342, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_77
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: -0.061692808, y: 0.025670469, z: 0.023116507}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_78
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: -0.062360328, y: 0.027564824, z: 0.023240179}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_79
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: -0.054766152, y: 0.00064730644, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_80
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: 0.036999352, y: 0.046396673, z: -0.042592935}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_117
+      parentName: character/dwarf/female/dwarffemale_hd_bone_80
+      position: {x: 0.020006068, y: -0.0010151267, z: -0.027239867}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_142
+      parentName: character/dwarf/female/dwarffemale_hd_bone_117
+      position: {x: 0.029628083, y: -0.0049015284, z: -0.03892646}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_81
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: -0.0724465, y: 0.011061192, z: 0.007807569}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_82
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: -0.057486266, y: 0.06516397, z: 0.021296807}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_83
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: -0.06902574, y: 0.04260844, z: 0.010185778}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_84
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: -0.06557939, y: 0.046162546, z: 0.021686528}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_85
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: -0.05629259, y: 0.04266119, z: 0.03339305}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_86
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: -0.0724465, y: 0.011061192, z: -0.0078075835}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_87
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: -0.071393415, y: -0.0018943548, z: -0.0052694445}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_88
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: -0.066100866, y: -0.0040555, z: -0.016885834}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_89
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: -0.06952744, y: -0.0019527078, z: -0.0113596115}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_90
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: -0.07029434, y: 0.0062681437, z: -0.011377677}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_91
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: -0.06725635, y: 0.020375073, z: -0.010766222}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_92
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: 0.03699936, y: 0.046396255, z: 0.04259294}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_118
+      parentName: character/dwarf/female/dwarffemale_hd_bone_92
+      position: {x: 0.020006128, y: -0.0010152459, z: 0.027239878}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_143
+      parentName: character/dwarf/female/dwarffemale_hd_bone_118
+      position: {x: 0.029627495, y: -0.004901409, z: 0.038926385}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_93
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: -0.00011225045, y: 0.01635766, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_119
+      parentName: character/dwarf/female/dwarffemale_hd_bone_93
+      position: {x: -0.06652082, y: -0.02494365, z: 0.010219431}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_120
+      parentName: character/dwarf/female/dwarffemale_hd_bone_93
+      position: {x: -0.05404396, y: -0.02722007, z: 0.00037227775}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_121
+      parentName: character/dwarf/female/dwarffemale_hd_bone_93
+      position: {x: -0.068869695, y: -0.04065621, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_122
+      parentName: character/dwarf/female/dwarffemale_hd_bone_93
+      position: {x: -0.06751429, y: -0.02647978, z: 0.004427264}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_123
+      parentName: character/dwarf/female/dwarffemale_hd_bone_93
+      position: {x: -0.06431403, y: -0.023314536, z: 0.016563056}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_124
+      parentName: character/dwarf/female/dwarffemale_hd_bone_93
+      position: {x: -0.06652082, y: -0.02494365, z: -0.010219444}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_125
+      parentName: character/dwarf/female/dwarffemale_hd_bone_93
+      position: {x: -0.06431403, y: -0.023314536, z: -0.016563056}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_126
+      parentName: character/dwarf/female/dwarffemale_hd_bone_93
+      position: {x: -0.06751429, y: -0.02647978, z: -0.004427278}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_94
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: -0.053788662, y: 0.031618536, z: 0.018569177}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_95
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: -0.054891415, y: 0.017006993, z: -0.034251668}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_96
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: 0.06546725, y: 0.010383785, z: -0.000028101913}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_127
+      parentName: character/dwarf/female/dwarffemale_hd_bone_96
+      position: {x: -0, y: -0.13262963, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_144
+      parentName: character/dwarf/female/dwarffemale_hd_bone_127
+      position: {x: -0, y: -0.08147162, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_148
+      parentName: character/dwarf/female/dwarffemale_hd_bone_144
+      position: {x: -0, y: -0.0837351, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_97
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: -0.05626529, y: 0.0007917285, z: -0.031410832}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_98
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: -0.067438595, y: 0.0048000813, z: -0.017402083}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_197
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_198
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: -0.011288769, y: 0.09421217, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_203
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_205
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: -0.07840856, y: -0.013683975, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_207
+      parentName: character/dwarf/female/dwarffemale_hd_bone_46
+      position: {x: -0, y: -0.00017142296, z: -0.07958611}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_26
+      parentName: character/dwarf/female/dwarffemale_hd_bone_14
+      position: {x: -0.086373776, y: 0.035167005, z: 0.052140858}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_36
+      parentName: character/dwarf/female/dwarffemale_hd_bone_26
+      position: {x: -0.042533215, y: 0, z: 0.010431394}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_180
+      parentName: character/dwarf/female/dwarffemale_hd_bone_14
+      position: {x: 0.0688914, y: 0.15530828, z: 0.09160842}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_181
+      parentName: character/dwarf/female/dwarffemale_hd_bone_14
+      position: {x: 0.048719786, y: 0.07441649, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_182
+      parentName: character/dwarf/female/dwarffemale_hd_bone_14
+      position: {x: 0.08357706, y: 0.071166724, z: 0.0007638889}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_183
+      parentName: character/dwarf/female/dwarffemale_hd_bone_14
+      position: {x: 0.092685916, y: 0.18721862, z: -0.11002775}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_184
+      parentName: character/dwarf/female/dwarffemale_hd_bone_14
+      position: {x: -0.09281275, y: 0.024981884, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_185
+      parentName: character/dwarf/female/dwarffemale_hd_bone_14
+      position: {x: 0.065672554, y: 0.18722257, z: 0.11002777}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_186
+      parentName: character/dwarf/female/dwarffemale_hd_bone_14
+      position: {x: -0.07595088, y: 0.0530698, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_187
+      parentName: character/dwarf/female/dwarffemale_hd_bone_14
+      position: {x: 0.10319727, y: 0.083748184, z: -0.041236103}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_188
+      parentName: character/dwarf/female/dwarffemale_hd_bone_14
+      position: {x: 0.097338006, y: -0.02219063, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_189
+      parentName: character/dwarf/female/dwarffemale_hd_bone_14
+      position: {x: 0.033674106, y: 0.0530698, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_190
+      parentName: character/dwarf/female/dwarffemale_hd_bone_14
+      position: {x: -0.08926739, y: 0.021557301, z: 0.0013839795}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_191
+      parentName: character/dwarf/female/dwarffemale_hd_bone_14
+      position: {x: 0.070492394, y: 0.07822558, z: 0.04123587}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_163
+      parentName: character/dwarf/female/dwarffemale_hd_bone_3
+      position: {x: -0.000000007450581, y: -0.011462629, z: -0.003082025}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_164
+      parentName: character/dwarf/female/dwarffemale_hd_bone_3
+      position: {x: 0.000000007450581, y: -0.011462361, z: -0.0030826894}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_165
+      parentName: character/dwarf/female/dwarffemale_hd_bone_3
+      position: {x: 0.0000000037252903, y: -0.011462361, z: -0.0030826926}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_166
+      parentName: character/dwarf/female/dwarffemale_hd_bone_3
+      position: {x: -0.000000007450581, y: -0.011462629, z: -0.003082025}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_167
+      parentName: character/dwarf/female/dwarffemale_hd_bone_3
+      position: {x: -0, y: -0.011462361, z: -0.0030826926}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_168
+      parentName: character/dwarf/female/dwarffemale_hd_bone_3
+      position: {x: -0.000000007450581, y: -0.011462629, z: -0.003082025}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_169
+      parentName: character/dwarf/female/dwarffemale_hd_bone_3
+      position: {x: 0.0000000037252903, y: -0.011462361, z: -0.003082697}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_170
+      parentName: character/dwarf/female/dwarffemale_hd_bone_3
+      position: {x: -0.000000007450581, y: -0.011462629, z: -0.003082025}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_171
+      parentName: character/dwarf/female/dwarffemale_hd_bone_3
+      position: {x: 0.0000000037252903, y: -0.011462361, z: -0.003082694}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_172
+      parentName: character/dwarf/female/dwarffemale_hd_bone_3
+      position: {x: -0.000000007450581, y: -0.011462629, z: -0.0030820295}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_173
+      parentName: character/dwarf/female/dwarffemale_hd_bone_3
+      position: {x: -0.000000007450581, y: -0.011462629, z: -0.003082025}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_174
+      parentName: character/dwarf/female/dwarffemale_hd_bone_3
+      position: {x: 0.0000000037252903, y: -0.011462361, z: -0.0030826926}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_152
+      parentName: character/dwarf/female/dwarffemale_hd_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_153
+      parentName: character/dwarf/female/dwarffemale_hd_rig
+      position: {x: 0.0402467, y: 0.75625825, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_154
+      parentName: character/dwarf/female/dwarffemale_hd_rig
+      position: {x: -0, y: -0.0069444445, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_155
+      parentName: character/dwarf/female/dwarffemale_hd_rig
+      position: {x: 0.023207223, y: 0.8220836, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_156
+      parentName: character/dwarf/female/dwarffemale_hd_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_157
+      parentName: character/dwarf/female/dwarffemale_hd_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_158
+      parentName: character/dwarf/female/dwarffemale_hd_rig
+      position: {x: 0.03784202, y: 0, z: 0.06899454}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_159
+      parentName: character/dwarf/female/dwarffemale_hd_rig
+      position: {x: 0.04003219, y: 0.90048707, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_160
+      parentName: character/dwarf/female/dwarffemale_hd_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_161
+      parentName: character/dwarf/female/dwarffemale_hd_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character/dwarf/female/dwarffemale_hd_bone_162
+      parentName: character/dwarf/female/dwarffemale_hd_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: f0862ee36382b244885a3dcadb70f45f,
+    type: 3}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
